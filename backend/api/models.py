@@ -8,4 +8,4 @@ class Task(models.Model):
 
     def _str_(self):
         return self.title
-# For new commit
+# For new commit1
